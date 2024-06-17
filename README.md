@@ -1,3 +1,5 @@
+Added a DEFAULT_checks folder with generically useful checks that I'm always running.
+
 # BChecks
 
 BChecks for Burp Suite Professional and Burp Suite Enterprise Edition, developed by PortSwigger and the community with 🧡
